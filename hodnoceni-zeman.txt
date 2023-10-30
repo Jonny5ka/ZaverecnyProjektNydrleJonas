@@ -1,0 +1,14 @@
+Ceníme práci na projektu! 🏆 Prohlédli jsme si kód a máme k němu následující poznámky:
+
+1. Pojmenování identifikátorů - ok
+2. Dodržení principů SRP a SoC - Práce s daty a s uživatelským vstupem a výstupem by mohla být lépe oddělena. Ve třídě EvidencePojistencu se nachází metoda na přídání pojištěnce, ovšem už chybí metoda na vyhledávání a vypisování, které je řešeno
+                                přímo v metodě main, což není ideální.
+3. Vhodný výběr datových typů - ok
+4. Formátování kódu - Třídy by mohly být rozděleny do jednotlivých souborů
+5. Duplicitní kód a nekonečné cykly - ok
+6. Validace vstupních dat - Kód obsahuje základní validaci jmena a příjmení, ale chybí validace věku a telefonního čísla.
+7. Logičnost a složitost - ok
+8. Komentáře - ok
+9. Celkové hodnocení - Kód je přehledný a splňuje základní požadavky zadání. Avšak mohl by být vylepšen v oblasti validace vstupních dat a oddělení uživatelského rozhraní od práce s daty.
+
+Doporučujeme případné výtky v kódu opravit, abyste jej mohli pak prezentovat budoucímu zaměstnavateli v co nejlepší kvalitě. Pokud byste potřebovali s čímkoli pomoci, naplánujte si s námi konzultaci, rádi vám poradíme!
